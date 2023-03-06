@@ -26,7 +26,7 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-header">
-          <p><?= __('Añadir nuevo') ?> <span><?= __('animal') ?></span></p>
+          <p><?= __('Añadir nuevo') ?> <span><?= __('animal') ?></span> : CSV/JSON</p>
         </div>
         <div class="section-content-form">
 
